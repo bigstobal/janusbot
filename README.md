@@ -1,2 +1,2 @@
 # janusbot
-A discord bot for bigjanus
+A private Discord bot for Bigjanus.
