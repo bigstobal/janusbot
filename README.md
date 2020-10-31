@@ -1,5 +1,5 @@
 # Janusbot
-A poorly written private Discord bot for Bigjanus.
+A poorly written private Discord bot for Bigjanus. Archived because it's really bad.
 
 ## List of features
 
